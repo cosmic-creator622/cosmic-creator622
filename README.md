@@ -158,11 +158,11 @@ My goal is to become an engineer who can go beyond simply writing code — **und
 
 <div align="center"> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmic-creator622&show_icons=true&theme=transparent&hide_border=true) 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true) 
+![GitHub Streak](https://streak-stats.demolab.com?user=cosmic-creator622=transparent&hide_border=true) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmic-creator622&layout=compact&theme=transparent&hide_border=true) 
 
 </div> 
 
@@ -174,7 +174,7 @@ My goal is to become an engineer who can go beyond simply writing code — **und
 
 <div align="center"> 
 
-[![Shaurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)](https://github.com/cosmic-creator622) 
+[![Shaurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmic-creator622&theme=github-compact&hide_border=true)](https://github.com/cosmic-creator622) 
 
 </div> 
 
@@ -235,7 +235,7 @@ I'm continuously improving my:
 <div align="center"> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmic-creator622) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shaurya-mishra-8ba308328) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beyondbinary-8ba308328) 
 
 </div> 
 
