@@ -20,6 +20,8 @@ I'm currently strengthening my foundations in computer science while building to
 
 <br />
 
+---
+
 ## 🧠 What I Work With 
 
 <table>
@@ -86,6 +88,7 @@ I'm currently strengthening my foundations in computer science while building to
 
 <br />
 
+---
 
 ## 🚀 My Direction 
 
@@ -99,6 +102,7 @@ Artificial Intelligence
 Applied AI 
       ↓ 
 AI Products & Intelligent Systems 
+``` 
 
 My goal is to become an engineer who can go beyond simply writing code — **understanding the problem, designing the system, building it, and turning it into something people can actually use.** 
 
@@ -119,11 +123,11 @@ My goal is to become an engineer who can go beyond simply writing code — **und
 ▸ Full-Stack Development 
 ▸ Cloud & Deployment 
 ▸ Software Architecture 
-
+``` 
 
 <br />
 
-
+---
 
 ## 🛠️ Tech Stack 
 
@@ -170,7 +174,7 @@ My goal is to become an engineer who can go beyond simply writing code — **und
 
 <div align="center"> 
 
-[![Shaurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)](https://github.com/YOUR_USERNAME) 
+[![Shaurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)](https://github.com/cosmic-creator622) 
 
 </div> 
 
@@ -189,7 +193,7 @@ Machine Learning Systems
 LLM-powered Applications 
 IoT Solutions 
 Software Engineering Projects 
-
+``` 
 
 I’m especially interested in the intersection of: 
 
@@ -197,7 +201,7 @@ I’m especially interested in the intersection of:
 
 <br />
 
-
+---
 
 ## 🎯 Career Goal 
 
@@ -209,6 +213,7 @@ I'm working toward roles such as:
 
 <br />
 
+---
 
 ## 🌱 Beyond Code 
 
@@ -223,17 +228,20 @@ I'm continuously improving my:
 
 <br />
 
+---
 
 ## 🤝 Let's Connect 
 
 <div align="center"> 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmic-creator622) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shaurya-mishra-8ba308328) 
 
 </div> 
 
 <br />
+
+--- 
 
 <div align="center"> 
 
