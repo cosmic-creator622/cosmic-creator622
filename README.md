@@ -20,8 +20,6 @@ I'm currently strengthening my foundations in computer science while building to
 
 <br />
 
----
-
 ## 🧠 What I Work With 
 
 <table>
@@ -88,7 +86,6 @@ I'm currently strengthening my foundations in computer science while building to
 
 <br />
 
----
 
 ## 🚀 My Direction 
 
@@ -102,7 +99,6 @@ Artificial Intelligence
 Applied AI 
       ↓ 
 AI Products & Intelligent Systems 
-``` 
 
 My goal is to become an engineer who can go beyond simply writing code — **understanding the problem, designing the system, building it, and turning it into something people can actually use.** 
 
@@ -123,11 +119,11 @@ My goal is to become an engineer who can go beyond simply writing code — **und
 ▸ Full-Stack Development 
 ▸ Cloud & Deployment 
 ▸ Software Architecture 
-``` 
+
 
 <br />
 
----
+
 
 ## 🛠️ Tech Stack 
 
@@ -193,7 +189,7 @@ Machine Learning Systems
 LLM-powered Applications 
 IoT Solutions 
 Software Engineering Projects 
-``` 
+
 
 I’m especially interested in the intersection of: 
 
@@ -201,7 +197,7 @@ I’m especially interested in the intersection of:
 
 <br />
 
----
+
 
 ## 🎯 Career Goal 
 
@@ -213,7 +209,6 @@ I'm working toward roles such as:
 
 <br />
 
----
 
 ## 🌱 Beyond Code 
 
@@ -228,7 +223,6 @@ I'm continuously improving my:
 
 <br />
 
----
 
 ## 🤝 Let's Connect 
 
@@ -240,8 +234,6 @@ I'm continuously improving my:
 </div> 
 
 <br />
-
---- 
 
 <div align="center"> 
 
