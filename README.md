@@ -1,252 +1,272 @@
 <div align="center">
 
-# 👋 Hey, I'm Shaurya Mishra 
+# 👋 Hey, I'm Shaurya Mishra
 
-### `AI / Software Engineer • Builder • Problem Solver`
+### AI / Software Engineer • Builder • Problem Solver
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Computer+Science+Student;Building+Intelligent+Software+Products;AI+%2F+Applied+AI+%2F+Software+Engineering" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+intelligent+software+products;Learning+AI%2C+ML+%26+modern+software+engineering;Turning+ideas+into+working+systems;Always+learning.+Always+building." alt="Typing SVG" />
 
----
+<br/>
+
+<a href="https://github.com/cosmic-creator622">
+  <img src="https://img.shields.io/badge/GitHub-cosmic--creator622-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/beyondbinary-8ba308328/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=cosmic-creator622&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
 
-I’m a Computer Science student focused on **software engineering, artificial intelligence, and building practical technology**. 
+---
 
-I enjoy turning ideas into working systems — from writing efficient code and designing applications to exploring **AI, machine learning, automation, and intelligent software products**. 
+## 🧠 About Me
 
-I'm currently strengthening my foundations in computer science while building toward a career in **AI Engineering / Applied AI / AI Product Engineering**. 
+I'm a Computer Science student focused on building strong foundations in **programming, software engineering, artificial intelligence, and machine learning**.
 
-<br />
+I enjoy understanding how systems work internally and then using that knowledge to build practical software.
+
+My current direction is:
+
+```text
+Computer Science
+      ↓
+Programming & Problem Solving
+      ↓
+Software Engineering
+      ↓
+AI / Machine Learning
+      ↓
+Generative AI & Intelligent Systems
+      ↓
+AI-Powered Products
+```
+
+I care about writing code that is not only functional, but also **understandable, scalable, maintainable, and useful**.
 
 ---
 
-## 🧠 What I Work With 
+## ⚡ What I'm Focused On
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💻 Programming & Computer Science 
-
-* Python 
-* Data Structures & Algorithms 
-* Object-Oriented Programming 
-* Problem Solving 
-* Database Fundamentals 
-* Computer Networks 
-* Operating Systems 
-* Software Engineering 
-* Programming Fundamentals 
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning 
-
-* Machine Learning fundamentals 
-* Neural Networks 
-* Generative AI 
-* Large Language Models 
-* AI-assisted development 
-* Intelligent applications 
-* AI automation 
-* Exploring RAG & AI agents 
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌐 Software Development 
-
-* Full-Stack Development 
-* REST APIs 
-* Web Applications 
-* Git & GitHub 
-* Version Control 
-* Backend Development 
-* Frontend Development 
-* API Integration 
-
-    </td>
-    <td width="50%" valign="top">
-
-### ☁️ Technologies I'm Exploring 
-
-* Cloud Computing 
-* IoT 
-* Automation 
-* AI-powered applications 
-* Developer tools 
-* Modern software architectures 
-
-    </td>
-  </tr>
-</table>
-
-<br />
+* 🧠 Artificial Intelligence & Machine Learning
+* 🤖 Generative AI & LLM-based applications
+* 💻 Strong programming fundamentals
+* 🧩 Data Structures & Algorithms
+* 🏗️ Software engineering & system design
+* 🌐 Full-stack and backend development
+* 🔌 APIs and intelligent application integration
+* ☁️ Cloud technologies
+* 🔄 Automation and AI-powered workflows
+* 📚 Continuous technical learning
 
 ---
 
-## 🚀 My Direction 
+## 🛠️ Technical Skills
 
-```text 
-Computer Science 
-      ↓ 
-Software Engineering 
-      ↓ 
-Artificial Intelligence 
-      ↓ 
-Applied AI 
-      ↓ 
-AI Products & Intelligent Systems 
-``` 
+### 💻 Programming & CS
 
-My goal is to become an engineer who can go beyond simply writing code — **understanding the problem, designing the system, building it, and turning it into something people can actually use.** 
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-<br />
+### 🌐 Web & Software Development
 
----
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-## 🔥 Currently Learning 
+### 🤖 AI / ML
 
-```text 
-▸ Advanced Python 
-▸ Data Structures & Algorithms 
-▸ Machine Learning 
-▸ Neural Networks 
-▸ Generative AI 
-▸ LLM Applications 
-▸ AI Agents & RAG 
-▸ Full-Stack Development 
-▸ Cloud & Deployment 
-▸ Software Architecture 
-``` 
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikitlearn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-5A29E4?style=flat-square&logo=googlebard&logoColor=white"/>
+</p>
 
-<br />
+### 🧩 Core Computer Science
 
----
-
-## 🛠️ Tech Stack 
-
-### Languages 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-
-### Web & Development 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-
-### AI / Data 
-
-![Python](https://img.shields.io/badge/AI%20%26%20ML-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-<br />
+```text
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Fundamentals
+Operating Systems
+Computer Networks
+Software Engineering
+Problem Solving
+Programming Fundamentals
+```
 
 ---
 
-## 📊 GitHub Activity 
+## 🚀 What I Like Building
 
-<div align="center"> 
+I am particularly interested in software that combines **engineering + intelligence**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmic-creator622&show_icons=true&theme=transparent&hide_border=true) 
+```text
+AI Applications
+      │
+      ├── Generative AI
+      ├── Intelligent Automation
+      ├── AI Assistants
+      ├── RAG Systems
+      ├── AI Agents
+      └── ML-powered Applications
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cosmic-creator622=transparent&hide_border=true) 
+Software Engineering
+      │
+      ├── Backend Systems
+      ├── APIs
+      ├── Full-Stack Applications
+      ├── Developer Tools
+      └── Automation
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmic-creator622&layout=compact&theme=transparent&hide_border=true) 
+The goal isn't simply to make something that works.
 
-</div> 
-
-<br />
-
----
-
-## 📈 Contribution Graph 
-
-<div align="center"> 
-
-[![Shaurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmic-creator622&theme=github-compact&hide_border=true)](https://github.com/cosmic-creator622) 
-
-</div> 
-
-<br />
-
----
-
-## 💡 What I Like Building 
-
-```text 
-AI Applications 
-Intelligent Automation 
-Developer Tools 
-Full-Stack Applications 
-Machine Learning Systems 
-LLM-powered Applications 
-IoT Solutions 
-Software Engineering Projects 
-``` 
-
-I’m especially interested in the intersection of: 
-
-**Software Engineering × AI × Automation × Real-World Products** 
-
-<br />
+The goal is to understand **why it works, how it can scale, and how it can become genuinely useful**.
 
 ---
 
-## 🎯 Career Goal 
+## 📚 Currently Learning
 
-> **Build intelligent software that solves meaningful problems.** 
-
-I'm working toward roles such as: 
-
-`AI Engineer` • `Applied AI Engineer` • `AI/ML Engineer` • `Generative AI Engineer` • `AI Product Engineer` • `Software Engineer` 
-
-<br />
-
----
-
-## 🌱 Beyond Code 
-
-I'm continuously improving my: 
-
-* Problem-solving ability 
-* Engineering fundamentals 
-* System thinking 
-* Technical communication 
-* Ability to learn new technologies quickly 
-* Understanding of how software becomes real products 
-
-<br />
+* Advanced Python
+* Data Structures & Algorithms
+* Machine Learning
+* Neural Networks
+* Generative AI
+* LLM application development
+* RAG architectures
+* AI agents
+* Backend engineering
+* APIs & integrations
+* Cloud fundamentals
+* Software architecture
+* System design
 
 ---
 
-## 🤝 Let's Connect 
+## 📊 GitHub Statistics
 
-<div align="center"> 
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmic-creator622) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beyondbinary-8ba308328) 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cosmic-creator622&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 
-</div> 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmic-creator622&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-<br />
+<br/><br/>
 
---- 
+<img src="https://streak-stats.demolab.com/?user=cosmic-creator622&hide_border=true" alt="GitHub Streak"/>
 
-<div align="center"> 
+</div>
 
-### `Build. Learn. Break. Improve. Repeat.` 
+---
 
-⭐ If you find something interesting here, feel free to explore my repositories. 
+## 📈 Contribution Activity
 
-</div> 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmic-creator622&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🎯 My Career Direction
+
+I'm working toward becoming an:
+
+### **AI / Applied AI Engineer**
+
+with the ability to move across the complete product-development cycle:
+
+```text
+Problem
+  ↓
+Idea
+  ↓
+Architecture
+  ↓
+Code
+  ↓
+AI / ML Integration
+  ↓
+API / Backend
+  ↓
+Product
+  ↓
+Deployment
+  ↓
+Real Users
+```
+
+I want to become the kind of engineer who can take an idea from **concept → working intelligent product**.
+
+---
+
+## 💡 Engineering Philosophy
+
+> Learn the fundamentals.
+> Build real things.
+> Understand the system.
+> Break it.
+> Debug it.
+> Improve it.
+> Repeat.
+
+I believe strong engineers aren't created by knowing every framework.
+
+They are created by developing the ability to **learn, reason, build, debug, and adapt**.
+
+---
+
+## 📌 GitHub Goals
+
+```text
+☑ Build consistently
+☑ Improve programming fundamentals
+☑ Solve meaningful problems
+☑ Build AI-powered applications
+☑ Write better code
+☑ Learn modern engineering practices
+☑ Contribute to open source
+☑ Build a strong technical portfolio
+☑ Keep improving every month
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/cosmic-creator622">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/beyondbinary-8ba308328/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Learn. Break. Improve. Repeat.
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+building+%F0%9F%9A%80;Keep+learning+%F0%9F%A7%A0" alt="Footer"/>
+
+</div>
